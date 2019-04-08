@@ -1,0 +1,7 @@
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\obj\Debug\Homework_02_Library.csprojAssemblyReference.cache
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\obj\Debug\Homework_02_Library.csproj.CoreCompileInputs.cache
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\bin\Debug\Homework_02_Library.exe.config
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\bin\Debug\Homework_02_Library.exe
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\bin\Debug\Homework_02_Library.pdb
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\obj\Debug\Homework_02_Library.exe
+C:\Users\Markovski\Desktop\Homework_02_Library\Homework_02_Library\obj\Debug\Homework_02_Library.pdb
